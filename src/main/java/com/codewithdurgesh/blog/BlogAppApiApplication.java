@@ -33,5 +33,9 @@ public class BlogAppApiApplication implements CommandLineRunner{
 
 		System.out.println(this.passwordEncoder.encode("abc"));
 	}
+	
+	public static void main1(String[] args) {
+		SpringApplication.run(BlogAppApiApplication.class, args);
+	}
 }
 
