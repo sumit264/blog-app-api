@@ -43,8 +43,13 @@ public class BlogAppApiApplication implements CommandLineRunner{
 	public static void main3(String[] args) {
 		SpringApplication.run(BlogAppApiApplication.class, args);
 	}
-	public static void main4(String[] args) {
-		SpringApplication.run(BlogAppApiApplication.class, args);
+	
+	public static void main5(String[] args) {
+		
+	}
+	
+public static void main6(String[] args) {
+		
 	}
 }
 
